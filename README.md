@@ -6,4 +6,5 @@ Project for IT School Samsung
 На компонент page_view размещаем 2 fragment, что позволяет нам «скроллить» между экраном текста и вопроса
 Для реализации проекта использовались: Библиотека Room -  БД; Библиотека  RxJava -  организация многопоточности.
 
-<img width="204" alt="image" src="https://user-images.githubusercontent.com/28738694/213558016-dc7767cb-7a03-4a7c-ba5a-677de0ea96bc.png">
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/28738694/213558016-dc7767cb-7a03-4a7c-ba5a-677de0ea96bc.png"> <img width="507" alt="image" src="https://user-images.githubusercontent.com/28738694/213558153-f9331c70-102a-4f1d-b3c8-53e41bd110e2.png">
+
